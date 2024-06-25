@@ -6,7 +6,7 @@ function App() {
             <div className="App">
             <AINameGenerator />
             <footer class="footer mt-auto py-3 bg-light text-center">
-                <p>© 2024 Daniel Alves Rosel</p>
+            <p>© 2024 <a href="https://github.com/velocitatem">Daniel Alves Rosel</a></p>
             </footer>
             </div>
     );
